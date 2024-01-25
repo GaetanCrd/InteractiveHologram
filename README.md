@@ -54,27 +54,27 @@ Make sure that when the Python code is launched it detects the webcam and the we
 
   #### 1.1 Webcam
 
-    Line 59 of the code `InteractiveHolo.py`: 
-    Modify the variable to find your webcam; a window with a video stream should open if the webcam is correctly detected.
+  Line 59 of the code `InteractiveHolo.py`: 
+  Modify the variable to find your webcam; a window with a video stream should open if the webcam is correctly detected.
 
   #### 1.2 Micro
 
-    Line 14 of the code `InteractiveHolo.py`: 
-    Modify the variable to find your webcam's microphone; use the `audioID.py` code provided in the GitHub repo to identify all your audio devices and their IDs.
+  Line 14 of the code `InteractiveHolo.py`: 
+  Modify the variable to find your webcam's microphone; use the `audioID.py` code provided in the GitHub repo to identify all your audio devices and their IDs.
 
 ### 2. Control Monitor
 
 #### 2.1 Figma
 
-    Get the file from this public link (you'll need a Figma account). Normally, the file is published, so it's public. If you can't get it, you can send me a request on gaetan.carrade@gmail.com
-    
-    link -> [InteractiveHologramV2-(Community)](https://www.figma.com/file/djTwNBUoWC2nPRA5BrAYd0/InteractiveHologramV2-(Community)?type=design&mode=design&t=z7bf9A173N1yEMxa-1)
+  Get the file from this public link (you'll need a Figma account). Normally, the file is published, so it's public. If you can't get it, you can send me a request on gaetan.carrade@gmail.com
+  
+  link -> [InteractiveHologramV2-(Community)](https://www.figma.com/file/djTwNBUoWC2nPRA5BrAYd0/InteractiveHologramV2-(Community)?type=design&mode=design&t=z7bf9A173N1yEMxa-1)
 
 #### 2.2 Python
 
-    Make sure that you have correctly imported all the necessary libraries and that you can run the `InteractiveHolo.py` code without error. Run it from a code editor or directly from the terminal.
-    
-    Launch the Figma model using the play button at the top right of the window, uncheck "hotspot hints on click" and "Figma UI" in the options, and set it to full screen by clicking F.
-    
-    You can now control the Figma model using your hand.
+  Make sure that you have correctly imported all the necessary libraries and that you can run the `InteractiveHolo.py` code without error. Run it from a code editor or directly from the terminal.
+  
+  Launch the Figma model using the play button at the top right of the window, uncheck "hotspot hints on click" and "Figma UI" in the options, and set it to full screen by clicking F.
+  
+  You can now control the Figma model using your hand.
 
