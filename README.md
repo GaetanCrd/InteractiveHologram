@@ -52,7 +52,7 @@ The interactive hologram function thanks to 1 webcam, 1 displaying screen and 1 
 <p style="text-align:center;"><img src="https://github.com/GaetanCrd/InteractiveHologram/blob/main/images/sche%CC%81ma_github.png" alt="Interactive Hologram Hardware" title="Interactive Hologram Hardware"></p><br><br><br><br>
 
 
-## Launch the Interactive Hologram
+## Launch the Interactive Hologram<br><br>
 
   ### 1. Wiring
 
@@ -66,7 +66,7 @@ Make sure that when the Python code is launched it detects the webcam and the we
   #### 1.2 Micro
 
   Line 14 of the code `InteractiveHolo.py`: 
-  Modify the variable to find your webcam's microphone; use the `audioID.py` code provided in the GitHub repo to identify all your audio devices and their IDs.
+  Modify the variable to find your webcam's microphone; use the `audioID.py` code provided in the GitHub repo to identify all your audio devices and their IDs.<br><br>
 
 ### 2. Control Monitor
 
