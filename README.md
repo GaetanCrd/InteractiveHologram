@@ -6,7 +6,7 @@ The interactive hologram is a platform that enables objects to be viewed with an
 
 Thanks to this platform, it is possible to visualize complex objects and learn more about their various characteristics, as well as adding information to a tangible object placed at the center of the pyramid.
 
-Get to know more about the interactive hologram project on DVIC website (link of the page soon…)
+Get to know more about the interactive hologram project on DVIC website (link of the page soon…)<br><br><br>
 
 
 ## Clone the Code 
@@ -21,7 +21,7 @@ To clone the project:
 
 Note that this Python code is designed to work with a specific Figma file:
 - For example, during an audio peak, the `InteractiveHolo.py` code triggers a click on the coordinates x,y=90,990
-- So, a button has been placed on these coordinates in the Figma file to trigger an action
+- So, a button has been placed on these coordinates in the Figma file to trigger an action<br><br><br>
 
 
 ## Files Provided in the GitHub
@@ -35,7 +35,7 @@ Note that this Python code is designed to work with a specific Figma file:
 
 - `AfterEffect_Github`: The AfterEffect files used to create the videos used on Figma + the source media used in the AfterEffect files.<br><br>
 
-- `Figma_Github`: .mp4 videos exported from AfterEffect and used in the Figma.
+- `Figma_Github`: .mp4 videos exported from AfterEffect and used in the Figma.<br><br><br>
 
 
 ## Hardware: A Webcam + Screen System
@@ -43,7 +43,7 @@ Note that this Python code is designed to work with a specific Figma file:
 The interactive hologram function thanks to one webcam and 2 screens:
 - One webcam to capture the video stream of hands and sound peaks.
 - One displaying screen directly implemented in the hologram.
-- One control monitor allowing you to run the Python code and the Figma file.
+- One control monitor allowing you to run the Python code and the Figma file.<br><br><br>
 
 
 ## Launch the Interactive Hologram
