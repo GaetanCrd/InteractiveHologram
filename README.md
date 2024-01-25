@@ -54,8 +54,8 @@ Make sure that when the Python code is launched it detects the webcam and the we
 
   #### 1.1 Webcam
 
-    Line 59 of the code `InteractiveHolo.py`: 
-    Modify the variable to find your webcam; a window with a video stream should open if the webcam is correctly detected.
+  Line 59 of the code `InteractiveHolo.py`: 
+  Modify the variable to find your webcam; a window with a video stream should open if the webcam is correctly detected.
 
   #### 1.2 Micro
 
