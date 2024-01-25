@@ -45,7 +45,7 @@ The interactive hologram function thanks to 1 webcam, 1 displaying screen and 1 
 - One displaying screen directly implemented in the hologram.
 - One control monitor allowing you to run the Python code and the Figma file.
 
-<p style="text-align:center;"><img src="https://github.com/GaetanCrd/InteractiveHologram/blob/main/images/sche%CC%81ma_github.png" alt="Interactive Hologram Hardware" title="Interactive Hologram Hardware"></p>
+<p style="text-align:center;"><img src="https://github.com/GaetanCrd/InteractiveHologram/blob/main/images/sche%CC%81ma_github.png" alt="Interactive Hologram Hardware" title="Interactive Hologram Hardware"></p><br><br><br><br><br>
 
 
 ## Launch the Interactive Hologram
