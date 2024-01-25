@@ -13,9 +13,9 @@ Get to know more about the interactive hologram project on DVIC website (link of
 
 To clone the project:
 
-1. Clone the repository: `git clone https:// ….à completer`
+1. Clone the repository: `git clone https://github.com/GaetanCrd/InteractiveHologram/tree/main`
 2. Install the required libraries (`cv2`, `mediapipe`, `pyautogui`, `tensorflow`, `audioop`, `pyaudio`)
-3. Adjust thresholds to suit your hardware (`seuil de déclenchement du clic pouce/index`, `seuil de déclenchement du clic avec l’audio => voir les commentaires du code`)
+3. Adjust thresholds to suit your hardware (seuil de déclenchement du clic pouce/index, seuil de déclenchement du clic avec l’audio => voir les commentaires du code)
 
 
 
@@ -48,16 +48,16 @@ The interactive hologram function thanks to one webcam and 2 screens:
 
 ## Launch the Interactive Hologram
 
-### 1. Wiring
+  ### 1. Wiring
 
 Make sure that when the Python code is launched it detects the webcam and the webcam microphone.
 
-#### 1.1 Webcam
+  #### 1.1 Webcam
 
 Line 59 of the code `InteractiveHolo.py`: 
 Modify the variable to find your webcam; a window with a video stream should open if the webcam is correctly detected.
 
-#### 1.2 Micro
+  #### 1.2 Micro
 
 Line 14 of the code `InteractiveHolo.py`: 
 Modify the variable to find your webcam's microphone; use the `audioID.py` code provided in the GitHub repo to identify all your audio devices and their IDs.
