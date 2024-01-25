@@ -15,11 +15,7 @@ To clone the project:
 
 1. Clone the repository: `git clone https://github.com/GaetanCrd/InteractiveHologram/tree/main`
 2. Install the required libraries (`cv2`, `mediapipe`, `pyautogui`, `tensorflow`, `audioop`, `pyaudio`)
-3. Adjust thresholds to suit your hardware (seuil de déclenchement du clic pouce/index, seuil de déclenchement du clic avec l’audio => voir les commentaires du code)
-
-
-
-
+3. Adjust thresholds to suit your hardware (seuil de déclenchement du clic pouce/index, seuil de déclenchement du clic avec l’audio => voir les commentaires du code)<br><br><br>
 
 Note that this Python code is designed to work with a specific Figma file:
 - For example, during an audio peak, the `InteractiveHolo.py` code triggers a click on the coordinates x,y=90,990
