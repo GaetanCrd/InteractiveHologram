@@ -1,5 +1,9 @@
 # InteractiveHologram
 
+<p style="text-align:center;"><img src="https://github.com/GaetanCrd/InteractiveHologram/blob/main/images/couverture.jpg" alt="Interactive Hologram Hardware" title="Interactive Hologram Hardware"><br><br>
+
+
+
 ## Basic Overview
 
 The interactive hologram is a platform that enables objects to be viewed with an illusion of depth and interacted with in real time using hand detection. 
