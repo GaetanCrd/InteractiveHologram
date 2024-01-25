@@ -2,7 +2,9 @@
 
 ## Basic Overview
 
-The interactive hologram is a platform that enables objects to be viewed with an illusion of depth and interacted with in real time using hand detection. Thanks to this platform, it is possible to visualize complex objects and learn more about their various characteristics, as well as adding information to a tangible object placed at the center of the pyramid.
+The interactive hologram is a platform that enables objects to be viewed with an illusion of depth and interacted with in real time using hand detection. 
+
+Thanks to this platform, it is possible to visualize complex objects and learn more about their various characteristics, as well as adding information to a tangible object placed at the center of the pyramid.
 
 Get to know more about the interactive hologram project on DVIC website (link of the page soon…)
 
