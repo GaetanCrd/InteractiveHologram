@@ -65,7 +65,7 @@ Modify the variable to find your webcam's microphone; use the `audioID.py` code 
 
 Get the file from this public link (you'll need a Figma account). Normally, the file is published, so it's public. If you can't get it, you can send me a request on gaetan.carrade@gmail.com
 
-[InteractiveHologramV2-(Community)](https://www.figma.com/file/djTwNBUoWC2nPRA5BrAYd0/InteractiveHologramV2-(Community)?type=design&mode=design&t=z7bf9A173N1yEMxa-1)
+link -> [InteractiveHologramV2-(Community)](https://www.figma.com/file/djTwNBUoWC2nPRA5BrAYd0/InteractiveHologramV2-(Community)?type=design&mode=design&t=z7bf9A173N1yEMxa-1)
 
 #### 2.2 Python
 
