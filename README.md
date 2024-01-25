@@ -19,6 +19,8 @@ To clone the project:
 
 
 
+
+
 Note that this Python code is designed to work with a specific Figma file:
 - For example, during an audio peak, the `InteractiveHolo.py` code triggers a click on the coordinates x,y=90,990
 - So, a button has been placed on these coordinates in the Figma file to trigger an action
