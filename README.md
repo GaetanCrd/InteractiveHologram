@@ -30,11 +30,11 @@ Note that this Python code is designed to work with a specific Figma file:
   - Control the computer mouse using the hand detected by the webcam.
   - Click by pinching the thumb and index finger.
   - Trigger a click by creating a sound peak on the webcam microphone.
- 
+ <br>
 - `AudioID`: Python file used to detect all the audio devices connected to your computer and their IDs, useful for setting up the `InteractiveHolo.py` code with your variables.
-  
+ <br> 
 - `AfterEffect_Github`: The AfterEffect files used to create the videos used on Figma + the source media used in the AfterEffect files.
-  
+  <br>
 - `Figma_Github`: .mp4 videos exported from AfterEffect and used in the Figma.
 
 
