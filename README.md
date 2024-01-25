@@ -41,9 +41,9 @@ Note that this Python code is designed to work with a specific Figma file:
 ## Hardware: A Webcam + Screen System
 
 The interactive hologram function thanks to 1 webcam, 1 displaying screen and 1 control monitor :
-- One webcam to capture the video stream of hands and sound peaks.
-- One displaying screen directly implemented in the hologram.
-- One control monitor allowing you to run the Python code and the Figma file.<br><br>
+- One *webcam* to capture the video stream of hands and sound peaks.
+- One *displaying* screen directly implemented in the hologram.
+- One *control monitor* allowing you to run the Python code and the Figma file.<br><br>
 
 <p style="text-align:center;"><img src="https://github.com/GaetanCrd/InteractiveHologram/blob/main/images/sche%CC%81ma_github.png" alt="Interactive Hologram Hardware" title="Interactive Hologram Hardware"></p><br><br><br><br><br>
 
