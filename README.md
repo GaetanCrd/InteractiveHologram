@@ -47,8 +47,6 @@ The interactive hologram function thanks to 1 webcam, 1 displaying screen and 1 
 
 <p style="text-align:center;"><img src="[./docs/images/interactive_pool.png](https://github.com/GaetanCrd/InteractiveHologram/blob/main/images/sche%CC%81ma_github.png)" alt="Interactive Hologram Hardware" width="320" height="180" title="Interactive Hologram Hardware"></p>
 
-  <br><br><br><br><br>
-
 
 ## Launch the Interactive Hologram
 
