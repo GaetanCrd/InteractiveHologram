@@ -35,7 +35,7 @@ Note that this Python code is designed to work with a specific Figma file:
   
 - `AfterEffect_Github`: The AfterEffect files used to create the videos used on Figma + the source media used in the AfterEffect files.
   
-- `Figma_Github`: `.mp4` videos exported from AfterEffect and used in the Figma.
+- `Figma_Github`: .mp4 videos exported from AfterEffect and used in the Figma.
 
 
 ## Hardware: A Webcam + Screen System
